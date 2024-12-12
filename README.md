@@ -1,4 +1,5 @@
 # Software Engineer
+[puplisher]("1.JPG")
 ## About
 I am dedicated to delivering innovative software solutions, specializing in Flutter mobile app development and NestJS backend development. As a Software Engineering student at Bahir Dar University, I am deeply committed to crafting efficient, user-friendly applications. My passion extends to both freelancing and direct development, where I apply my expertise to meet diverse client needs. With a focus on quality and tailored solutions, I strive to exceed expectations in every project. My goal is to combine technical proficiency with creative problem-solving, ensuring that each application not only functions seamlessly but also delivers a superior user experience.
 ## Education
